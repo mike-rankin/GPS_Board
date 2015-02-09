@@ -1,0 +1,9 @@
+These files should all be in the same location as the .ino sketch and can be placed anywhere
+data.h
+EEPROMAnything.h
+GPS_Cube.ino
+mySoftwareSerial.cpp
+mySoftwareSerial.h
+
+Libraries PinChangeInt and TinyGPS should both be unzipped into the Downloads directory and then in the IDE do a Sketch/Import Library to import both libraries 
+
